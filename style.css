@@ -52,7 +52,7 @@ header nav ul li a:hover {
 }
 /*HeroS*/
 .heroS {
-    background: url('Imagens/fundoServiço.jpg');
+    background: url('fundoServiço.jpg');
     height:1000px;
     display:flex;
     justify-content:center;
