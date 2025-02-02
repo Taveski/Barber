@@ -36,7 +36,7 @@ ul#album-fotos li:hover span {
 }
 
 ul#album-fotos li#foto01 {
-    background:url('300x300(4).jpg') no-repeat; 
+    background:url('../Imagens/300x300\ \(1\).jpg') no-repeat; 
     background-position: 50% 50%;
     background-size: 300px 300px;
     background-color: #ffffff;   
